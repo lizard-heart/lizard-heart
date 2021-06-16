@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<a href="discordapp.com/users/709047772711485463">
+<a href="https://www.discordapp.com/users/709047772711485463">
   <img align="left" alt="Henry's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC0ZCat9S6KoR7dAiIezBfhg">
   <img align="left" alt="Henry's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
+
+<br />
 
 
 [![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizard-heart&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
