@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <a href="https://www.discordapp.com/users/709047772711485463">
   <img align="left" alt="Henry's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -7,13 +5,12 @@
   <img align="left" alt="Henry's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-<br />
-<br />
+<br>
 
 ## Stats
-[![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizard-heart&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizard-heart&layout=compact&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizard-heart&layout=compact&theme=dracula)](https://github.com/lizard-heart)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizard-heart&layout=compact&theme=dracula)
 
 ## Recent Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizard-heart&repo=collatz-ratios&theme=dracula)](https://github.com/lizard-heart/collatz-ratios)
