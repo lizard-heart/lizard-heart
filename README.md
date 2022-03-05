@@ -10,25 +10,17 @@
 <br />
 <br />
 
-
+## Stats
 [![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizard-heart&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizard-heart&layout=compact&theme=dracula)](https://github.com/lizard-heart)
 
+## Recent Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizard-heart&repo=collatz-ratios&theme=dracula)](https://github.com/lizard-heart/collatz-ratios)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizard-heart&repo=omni-focus-start-toggl-timer&theme=dracula)](https://github.com/lizard-heart/omni-focus-start-toggl-timer)
-<!--
-**lizard-heart/lizard-heart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Currently Working
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizard-heart&repo=VideoFeed&theme=dracula)](https://github.com/lizard-heart/VideoFeed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizard-heart&repo=hub&theme=dracula)](https://github.com/lizard-heart/hub)
