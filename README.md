@@ -20,4 +20,4 @@
 ## Currently Working On:
 [![Readme Card](https://readme-stats-eight-rho.vercel.app/api/pin/?username=lizard-heart&repo=VideoFeed&theme=midnight-purple)](https://github.com/lizard-heart/VideoFeed)
 
-[![Readme Card](https://readme-stats-eight-rho.vercel.app/api/pin/?username=lizard-heart&repo=hub&theme=midnight-purple)](https://github.com/lizard-heart/obsidian-content-pusher)
+[![Readme Card](https://readme-stats-eight-rho.vercel.app/api/pin/?username=lizard-heart&repo=hub&theme=midnight-purple)](https://github.com/lizard-heart/obsidian-note-content-pusher)
