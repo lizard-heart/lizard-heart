@@ -5,8 +5,12 @@
   <img align="left" alt="Henry's YouTube" height="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
+<a href="https://lizard-heart.github.io">
+ <img align="left" alt="Website" height="40px" src="https://raw.githubusercontent.com/lizard-heart/lizard-heart/main/internet.png" />
+</a>
+
 <a href="https://www.buymeacoffee.com/lizardheart">
- <img align="right" alt="Buy me a Coffee" height="40px" src="https://raw.githubusercontent.com/lizard-heart/lizard-heart/main/buy-me-a-cofee.png" />
+ <img align="right" alt="Buy me a Coffee" height="39px" src="https://raw.githubusercontent.com/lizard-heart/lizard-heart/main/buy-me-a-cofee.png" />
 </a>
 <br>
 
