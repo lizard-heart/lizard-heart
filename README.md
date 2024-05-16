@@ -1,22 +1,3 @@
-<a href="https://www.discordapp.com/users/709047772711485463">
-  <img align="left" alt="Henry's Discord" height="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UC0ZCat9S6KoR7dAiIezBfhg">
-  <img align="left" alt="Henry's YouTube" height="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
-
-<a href="https://lizard-heart.github.io">
- <img align="left" alt="Website" height="40px" src="https://raw.githubusercontent.com/lizard-heart/lizard-heart/main/internet.png" />
-</a>
-
-<a href="https://www.buymeacoffee.com/lizardheart">
- <img align="right" alt="Buy me a Coffee" height="39px" src="https://raw.githubusercontent.com/lizard-heart/lizard-heart/main/buy-me-a-cofee.png" />
-</a>
-<br>
-
-## 
-
-
 ## Stats:
 ![Henry's GitHub stats](https://readme-stats-eight-rho.vercel.app/api?username=lizard-heart&layout=compact&show_icons=true&theme=midnight-purple)
 
